@@ -73,8 +73,7 @@ We aim to add a workflow replay and step-back navigation capability to the Slice
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-TBD
-
+https://github.com/user-attachments/assets/64b88523-0bd4-47cd-af17-163432a57345
 
 
 # Illustrations
